@@ -1,0 +1,516 @@
+{
+    "Function": [
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Beyblade",
+            "description": "LetItRip",
+            "id": "beyblade",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "You've been struck by...",
+            "description": "YouveBeenStruckBy",
+            "id": "struck_by_truck",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "You've been struck by TANK",
+            "description": "YouveBeenStruckByTank",
+            "id": "struck_by_tank",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Remove Current Weapon",
+            "description": "IWillTakeThisGunFromYou",
+            "id": "remove_current_weapon",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Warp In Random Vehicle",
+            "description": "ItsYourUber",
+            "id": "tele_to_random_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Someone Steal My Vehicle",
+            "description": "Stealer!!!",
+            "id": "steal_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_NPCs",
+            "name": "Spawn Random Enemy",
+            "description": "GiveMeEnemy",
+            "id": "spawn_enemy",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_NPCs",
+            "name": "Teleport Random NPCs To Player",
+            "description": "WhoAreYouPeople",
+            "id": "teleport_random_npcs_to_player",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_NPCs",
+            "name": "Launch Player Into The Air",
+            "description": "UpUpAndAway",
+            "id": "launch_player_up",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Mission",
+            "name": "Fail Current Mission",
+            "description": "MissionFailed",
+            "id": "fail_mission",
+            "exclusive": true
+        },
+        {
+            "category": "Stats",
+            "name": "Fat Player",
+            "description": "WhoAteAllThePies",
+            "id": "fat_player",
+            "exclusive": false
+        },
+        {
+            "category": "Stats",
+            "name": "Skinny Player",
+            "description": "LeanAndMean",
+            "id": "skinny_player",
+            "exclusive": false
+        },
+        {
+            "category": "Stats",
+            "name": "Buff Player",
+            "description": "BigBro",
+            "id": "buff_player",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Death",
+            "description": "GoodbyeCruelWorld",
+            "id": "death",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Ignite Player",
+            "description": "IgnitePlayer",
+            "id": "spawn_fire_around_player",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Explode Player",
+            "description": "ExplodePlayer",
+            "id": "explode_player",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Get Wasted",
+            "description": "Hospitality",
+            "id": "wasted",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Freefall!",
+            "description": "WhereWeDroppingBoys",
+            "id": "freefall",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Jetpack!",
+            "description": "I Want to Fly",
+            "id": "jetpack",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Health, Armor, $250k",
+            "description": "INeedSomeHelp",
+            "id": "health_armor_money",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Vehicle Boost",
+            "description": "FullForceForward",
+            "id": "vehicle_boost",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Send Vehicles To Space",
+            "description": "StairwayToHeaven",
+            "id": "send_vehicles_to_space",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Do A Kickflip!",
+            "description": "DoAKickflip",
+            "id": "kickflip",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Pop Tires Of Vehicles",
+            "description": "TiresBeGone",
+            "id": "pop_tires_of_all_vehicles",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Explode Vehicle",
+            "description": "AllCarsGoBoom",
+            "id": "explode_vehicle",
+            "exclusive": true
+        },
+        {
+            "category": "Teleportation",
+            "name": "Random Teleport",
+            "description": "LetsGoSightseeing",
+            "id": "random_teleport",
+            "exclusive": true
+        },
+        {
+            "category": "WantedLevel",
+            "name": "Six Wanted Stars",
+            "description": "BringItOn",
+            "id": "wanted_level_six_stars",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Spawn Ramp",
+            "description": "FreeStuntJump",
+            "id": "spawn_ramp",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Meteor Garden",
+            "description": "NandekonoSeKaewa",
+            "id": "meteor_garden",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "TABLE!",
+            "description": "TABLE",
+            "id": "spawn_table",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Quick Sprunk Stop",
+            "description": "ARefreshingDrink",
+            "id": "quick_sprunk_stop",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Team Trees",
+            "description": "TeamTrees",
+            "id": "spawn_tree",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Wow, New House",
+            "description": "NewHouse",
+            "id": "spawn_house",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Stop LGBT",
+            "description": "StopLGBT",
+            "id": "spawn_traffic_light",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Weapon Set 1",
+            "description": "ThugsArmoury",
+            "id": "weapon_set_1",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Weapon Set 2",
+            "description": "ProfessionalsKit",
+            "id": "weapon_set_2",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Weapon Set 3",
+            "description": "NuttersToys",
+            "id": "weapon_set_3",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Weapon Set 4",
+            "description": "MinigunMadness",
+            "id": "weapon_set_4",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Random Weapon Set",
+            "description": "RandomWeaponSet",
+            "id": "random_weapon_set",
+            "exclusive": false
+        },
+        {
+            "category": "WeaponsAndHealth",
+            "name": "Give Me The Parachute",
+            "description": "GiveParachutePlease",
+            "id": "give_parachute",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Weather",
+            "name": "Change my Weather NOW!",
+            "description": "ChangeWeather",
+            "id": "random_weather",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Change Vehicle",
+            "description": "ChangeVehicle",
+            "id": "change_vehicle",
+            "exclusive": false
+        },
+
+        {
+            "category": "Vehicle",
+            "name": "OldSpeedDemon",
+            "description": "OldSpeedDemon",
+            "id": "504",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "18Holes",
+            "description": "18Holes",
+            "id": "457",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "ItsAllBull",
+            "description": "ItsAllBull",
+            "id": "486",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "NotForPublicRoads",
+            "id": "502"
+        },
+        {
+            "category": "Vehicle",
+            "name": "JustTryAndStopMe",
+            "description": "JustTryAndStopMe",
+            "id": "503",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "OhDude",
+            "description": "OhDude",
+            "id": "425",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "JumpJet",
+            "description": "JumpJet",
+            "id": "520",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "MonsterMash",
+            "description": "MonsterMash",
+            "id": "556",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "EnergyFiveHundred",
+            "description": "EnergyFiveHundred",
+            "id": "522",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "FourWheelFun",
+            "description": "FourWheelFun",
+            "id": "471",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "DoughnutHandicap",
+            "description": "DoughnutHandicap",
+            "id": "489",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "SurpriseDriver",
+            "description": "SurpriseDriver",
+            "id": "-1",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "GiveMeBobcatPlease",
+            "description": "GiveMeBobcatPlease",
+            "id": "422",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "TimeToKickAss",
+            "description": "TimeToKickAss",
+            "id": "432",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "WheresTheFuneral",
+            "description": "WheresTheFuneral",
+            "id": "442",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "CelebrityStatus",
+            "description": "CelebrityStatus",
+            "id": "409",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "FlyingToStunt",
+            "description": "FlyingToStunt",
+            "id": "513",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "TrueGrime",
+            "description": "TrueGrime",
+            "id": "408",
+            "exclusive": false
+        },
+        {
+            "category": "Vehicle",
+            "name": "IWantToHover",
+            "description": "IWantToHover",
+            "id": "539",
+            "exclusive": false
+        }
+    ],
+    "Location": [
+        {
+            "name": "Groove Street",
+            "description": "BringMeHome",
+            "x": 2493,
+            "y": -1670,
+            "z": 15
+        },
+        {
+            "name": "A Tower",
+            "description": "BringMeToATower",
+            "x": 1544,
+            "y": -1353,
+            "z": 332
+        },
+        {
+            "name": "A Pier",
+            "description": "BringMeToAPier",
+            "x": 836,
+            "y": -2061,
+            "z": 15
+        },
+        {
+            "name": "The LS Airport",
+            "description": "BringMeToTheLSAirport",
+            "x": 2109,
+            "y": -2544,
+            "z": 16
+        },
+        {
+            "name": "The Docks",
+            "description": "BringMeToTheDocks",
+            "x": 2760,
+            "y": -2456,
+            "z": 16
+        },
+        {
+            "name": "A Mountain",
+            "description": "BringMeToAMountain",
+            "x": -2233,
+            "y": -1737,
+            "z": 483
+        },
+        {
+            "name": "The SF Airport",
+            "description": "BringMeToTheSFAirport",
+            "x": -1083,
+            "y": 409,
+            "z": 17
+        },
+        {
+            "name": "A Bridge",
+            "description": "BringMeToABridge",
+            "x": -2669,
+            "y": 1595,
+            "z": 220
+        },
+        {
+            "name": "A Secret Place",
+            "description": "BringMeToASecretPlace",
+            "x": 213,
+            "y": 1911,
+            "z": 20
+        },
+        {
+            "name": "A Quarry",
+            "description": "BringMeToAQuarry",
+            "x": 614,
+            "y": 856,
+            "z": -40
+        },
+        {
+            "name": "The LV Airport",
+            "description": "BringMeToTheLVAirport",
+            "x": 1612,
+            "y": 1166,
+            "z": 17
+        },
+        {
+            "name": "Big Ear",
+            "description": "BringMeToBigEar",
+            "x": -310,
+            "y": 1524,
+            "z": 78
+        }
+    ]
+}
