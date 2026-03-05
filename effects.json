@@ -1623,7 +1623,7 @@
             "description": "MeteorGarden",
             "id": "meteor_garden",
             "exclusive": false
-        }
+        },
         {
             "category": "CustomEffects_Objects",
             "name": "Upside-Down Objects",
@@ -2353,6 +2353,13 @@
         },
         {
             "category": "CustomEffects_Player",
+            "name": "Spawn Hunter with Army and Attack Player",
+            "description": "OhNoArmyIsHuntingMe",
+            "id": "spawn_enemy_heli",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
             "name": "The Flash",
             "description": "FastestManAlive",
             "id": "the_flash",
@@ -2978,3 +2985,4 @@
         }
     ]
 }
+
