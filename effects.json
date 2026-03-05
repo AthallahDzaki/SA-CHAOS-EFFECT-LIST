@@ -30,6 +30,13 @@
         },
         {
             "category": "CustomEffects_Player",
+            "name": "Change Player Outfit",
+            "description": "ChangeOutfit",
+            "id": "random_outfit",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
             "name": "Warp In Random Vehicle",
             "description": "ItsYourUber",
             "id": "tele_to_random_vehicle",
@@ -520,3 +527,4 @@
         }
     ]
 }
+
