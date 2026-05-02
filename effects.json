@@ -2437,6 +2437,13 @@
         },
         {
             "category": "CustomEffects_Player",
+            "name": "You've been struck by Random Vehicle",
+            "description": "YouveBeenStruckByRandomVehicle",
+            "id": "struck_by_random_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
             "name": "You know what to do.",
             "description": "WhyDidYouBlowUpRydersCar",
             "id": "blow_up_ryders_car",
@@ -2489,6 +2496,13 @@
             "name": "Mechanic Forget to Install my Wheel",
             "description": "MechanicForgetToInstallMyWheel",
             "id": "oh_no_my_wheel",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Oh No My Wheel Gone",
+            "description": "RemoveRandomWheel",
+            "id": "detach_random_wheel",
             "exclusive": true
         },
         {
@@ -2553,6 +2567,13 @@
             "description": "OneCarGoesBoom",
             "id": "explode_random_vehicle",
             "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Vehicle Dancing",
+            "description": "LetWeDance",
+            "id": "vehicle_dance",
+            "exclusive": false
         },
         {
             "category": "CustomEffects_Vehicle",
