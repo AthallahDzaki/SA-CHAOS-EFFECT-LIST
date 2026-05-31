@@ -1130,6 +1130,13 @@
         },
         {
             "category": "CustomEffects_Generic",
+            "name": "Di Antara ku Dan Sawit",
+            "description": "SAWITTIME",
+            "id": "effect_palm_tree",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
             "name": "The Mirror Dimension",
             "description": "ThisSeemsStrange",
             "id": "the_mirror_dimension",
@@ -1573,6 +1580,20 @@
             "name": "Spawn Dumptrucks",
             "description": "DamnBoiHeThicc",
             "id": "big_butts",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Ped",
+            "name": "HOREG MAN Thomas Alfa Edisound",
+            "description": "HOREGMAN",
+            "id": "spawn_horeg",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Ped",
+            "name": "MBG MAKAN BERGIZI GRATIS",
+            "description": "MBGPRABOWO",
+            "id": "spawn_mbg",
             "exclusive": false
         },
         {
@@ -2353,6 +2374,13 @@
         },
         {
             "category": "CustomEffects_Player",
+            "name": "Ballas All Around",
+            "description": "BallasAllAround",
+            "id": "spawn_ballas",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Player",
             "name": "Spawn Hunter with Army and Attack Player",
             "description": "OhNoArmyIsHuntingMe",
             "id": "spawn_enemy_heli",
@@ -2412,6 +2440,13 @@
             "name": "Weapon Roulette",
             "description": "WeaponRoulette",
             "id": "weapon_roulette",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "You've been struck by train",
+            "description": "YouveBeenStruckByTrain",
+            "id": "struck_by_train",
             "exclusive": false
         },
         {
@@ -2570,6 +2605,13 @@
         },
         {
             "category": "CustomEffects_Vehicle",
+            "name": "Get Towed Dude",
+            "description": "GetTowed",
+            "id": "gettowed",
+            "exclusive": true
+        },
+        {
+            "category": "CustomEffects_Vehicle",
             "name": "Vehicle Dancing",
             "description": "LetWeDance",
             "id": "vehicle_dance",
@@ -2622,6 +2664,13 @@
             "name": "HONK!!!",
             "description": "HONKHONK",
             "id": "honk_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "HONK AND BOOST!!!",
+            "description": "HONKANDBOOST",
+            "id": "honk_and_boost_vehicle",
             "exclusive": false
         },
         {
