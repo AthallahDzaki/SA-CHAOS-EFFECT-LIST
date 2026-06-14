@@ -23,6 +23,13 @@
         },
         {
             "category": "CustomEffects_Player",
+            "name": "You've been struck by RANDOM VEHICLE!",
+            "description": "YouveBeenStruckByRandomVehicle",
+            "id": "struck_by_random_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
             "name": "Remove Current Weapon",
             "description": "IWillTakeThisGunFromYou",
             "id": "remove_current_weapon",
