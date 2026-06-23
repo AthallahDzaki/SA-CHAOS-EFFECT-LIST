@@ -1210,7 +1210,7 @@
             "description": "WASDCheatsEffect",
             "id": "effect_wasd_cheats",
             "exclusive": 0
-        },
+        }
     ],
     "Location": [
         {
