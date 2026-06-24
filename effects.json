@@ -8,6 +8,20 @@
             "exclusive": false
         },
         {
+            "category": "CustomEffects_Vehicle",
+            "name": "My Vehicle Get Towed",
+            "description": "GetTowed",
+            "id": "get_towed",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Player",
+            "name": "Exit My Vehicle Please",
+            "description": "ExitVehicle",
+            "id": "exit_vehicle",
+            "exclusive": false
+        },
+        {
             "category": "CustomEffects_Player",
             "name": "You've been struck by...",
             "description": "YouveBeenStruckBy",
