@@ -1026,7 +1026,7 @@
             "category": "CustomEffects_Vehicle",
             "name": "Wide Vehicles",
             "description": "WidePeepoHappy",
-            "id": "vehicle_dance",
+            "id": "vehicle_size_wide",
             "exclusive": false
         },
         {
