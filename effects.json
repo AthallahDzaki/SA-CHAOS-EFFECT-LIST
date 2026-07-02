@@ -2880,13 +2880,6 @@
             "category": "CustomEffects_Vehicle",
             "name": "Wide Vehicles",
             "description": "WidePeepoHappy",
-            "id": "vehicle_dance",
-            "exclusive": false
-        },
-        {
-            "category": "CustomEffects_Vehicle",
-            "name": "Make The Vehicle Dance",
-            "description": "GoovyGang",
             "id": "vehicle_size_wide",
             "exclusive": false
         },
