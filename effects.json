@@ -23,7 +23,7 @@
         },
         {
             "category": "CustomEffects_Player",
-            "name": "You've been struck by...",
+            "name": "You've been struck by Truck",
             "description": "YouveBeenStruckBy",
             "id": "struck_by_truck",
             "exclusive": false
