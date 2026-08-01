@@ -184,6 +184,13 @@
         },
         {
             "category": "CustomEffects_Vehicle",
+            "name": "Vehicle Boost Backward",
+            "description": "FullForceBackward",
+            "id": "vehicle_boost_backward",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
             "name": "Send Vehicles To Space",
             "description": "StairwayToHeaven",
             "id": "send_vehicles_to_space",
