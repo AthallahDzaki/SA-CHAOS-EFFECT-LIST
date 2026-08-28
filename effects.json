@@ -805,6 +805,13 @@
             "exclusive": false
         },
         {
+            "category": "CustomEffects_Player",
+            "name": "Get Out",
+            "description": "GetOutVehicle",
+            "id": "exit_current_vehicle",
+            "exclusive": false
+        },
+        {
             "category": "CustomEffects_Generic",
             "name": "0.5x Effect Speed",
             "description": "LetsDragThisOutABit",
@@ -1105,6 +1112,13 @@
             "name": "Spawn Ramp",
             "description": "FreeStuntJump",
             "id": "spawn_ramp",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Wow New House",
+            "description": "NewHouseForMe",
+            "id": "spawn_temp_house",
             "exclusive": false
         },
         {
@@ -2860,6 +2874,13 @@
             "name": "Vehicle Boost",
             "description": "FullForceForward",
             "id": "vehicle_boost",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Vehicle Boost Backward",
+            "description": "FullForceBackward",
+            "id": "vehicle_boost_backward",
             "exclusive": false
         },
         {
