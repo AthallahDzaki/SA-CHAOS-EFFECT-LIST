@@ -64,6 +64,20 @@
             "exclusive": false
         },
         {
+            "category": "CustomEffects_Player",
+            "name": "Someone Steal My Vehicle",
+            "description": "Stealer!!!",
+            "id": "steal_player_vehicle",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Vehicle",
+            "name": "Change Vehicle",
+            "description": "ChangeVehicle",
+            "id": "change_vehicle",
+            "exclusive": false
+        },
+        {
             "category": "NPCs",
             "name": "Recruit Anyone (DE)",
             "description": "DEGangster",
