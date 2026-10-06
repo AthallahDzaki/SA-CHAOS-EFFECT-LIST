@@ -127,6 +127,13 @@
             "exclusive": false
         },
         {
+            "category": "CustomEffects_Player",
+            "name": "Stuck On Shamal",
+            "description": "LetsFly",
+            "id": "stuck_on_shamal",
+            "exclusive": false
+        },
+        {
             "category": "WeaponsAndHealth",
             "name": "Death",
             "description": "GoodbyeCruelWorld",
