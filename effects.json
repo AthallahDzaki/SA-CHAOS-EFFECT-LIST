@@ -275,9 +275,23 @@
         },
         {
             "category": "CustomEffects_Generic",
+            "name": "OMG! Black Hole",
+            "description": "BlackHole",
+            "id": "black_hole",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
             "name": "Wow, New House",
             "description": "NewHouse",
             "id": "spawn_house",
+            "exclusive": false
+        },
+        {
+            "category": "CustomEffects_Generic",
+            "name": "Let's Ride a Missile",
+            "description": "MissileTime",
+            "id": "ride_missile",
             "exclusive": false
         },
         {
