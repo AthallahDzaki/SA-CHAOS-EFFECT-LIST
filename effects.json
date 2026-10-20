@@ -592,8 +592,13 @@
       "description": "ChangeVehicle",
       "id": "change_vehicle",
       "exclusive": {
-        "status": false,
-        "effectToExclusive": []
+        "status": true,
+        "effectToExclusive": [
+          {
+            "name": "get_towed",
+            "delay": 5000
+          }
+        ]
       }
     },
     {
