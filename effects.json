@@ -87,6 +87,16 @@
   ],
   "Function": [
     {
+      "category": "CustomEffects_Generic",
+      "name": "Struck By Plane",
+      "description": "Get Struck By Plane",
+      "id": "struck_by_plane",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
       "category": "CustomEffects_Vehicle",
       "name": "Beyblade",
       "description": "LetItRip",
