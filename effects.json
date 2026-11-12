@@ -1,88 +1,116 @@
 {
   "Location": [
     {
-      "name": "Groove Street",
-      "description": "BringMeHome",
-      "x": 2493,
-      "y": -1670,
+      "name": "Ocean View Hotel",
+      "description": "BringMeToOceanView",
+      "x": 219,
+      "y": -1272,
+      "z": 11
+    },
+    {
+      "name": "Vercetti Estate",
+      "description": "BringMeToVercettiEstate",
+      "x": -378,
+      "y": -552,
+      "z": 19
+    },
+    {
+      "name": "The Malibu Club",
+      "description": "PartyAtMalibu",
+      "x": 489,
+      "y": -61,
+      "z": 10
+    },
+    {
+      "name": "Escobar International Airport",
+      "description": "BringMeToEscobarAirport",
+      "x": -1450,
+      "y": -840,
       "z": 15
     },
     {
-      "name": "A Tower",
-      "description": "BringMeToATower",
-      "x": 1544,
-      "y": -1353,
-      "z": 332
+      "name": "North Point Mall",
+      "description": "TimeToShop",
+      "x": 375,
+      "y": 1060,
+      "z": 19
     },
     {
-      "name": "A Pier",
-      "description": "BringMeToAPier",
-      "x": 836,
-      "y": -2061,
-      "z": 15
+      "name": "Hyman Memorial Stadium",
+      "description": "BringMeToStadium",
+      "x": -1080,
+      "y": 1320,
+      "z": 10
     },
     {
-      "name": "The LS Airport",
-      "description": "BringMeToTheLSAirport",
-      "x": 2109,
-      "y": -2544,
-      "z": 16
+      "name": "InterGlobal Film Studios",
+      "description": "BringMeToFilmStudios",
+      "x": -75,
+      "y": 860,
+      "z": 11
     },
     {
-      "name": "The Docks",
+      "name": "Leaf Links Golf Club",
+      "description": "PlaySomeGolf",
+      "x": 80,
+      "y": 300,
+      "z": 10
+    },
+    {
+      "name": "Viceport Docks",
       "description": "BringMeToTheDocks",
-      "x": 2760,
-      "y": -2456,
-      "z": 16
+      "x": -680,
+      "y": -1520,
+      "z": 11
     },
     {
-      "name": "A Mountain",
-      "description": "BringMeToAMountain",
-      "x": -2233,
-      "y": -1737,
-      "z": 483
+      "name": "Ocean Beach Lighthouse",
+      "description": "BringMeToLighthouse",
+      "x": 640,
+      "y": -1600,
+      "z": 15
     },
     {
-      "name": "The SF Airport",
-      "description": "BringMeToTheSFAirport",
-      "x": -1083,
-      "y": 409,
-      "z": 17
+      "name": "Cherry Popper Ice Cream Factory",
+      "description": "IceCreamHustle",
+      "x": -870,
+      "y": -580,
+      "z": 11
     },
     {
-      "name": "A Bridge",
-      "description": "BringMeToABridge",
-      "x": -2669,
-      "y": 1595,
-      "z": 220
+      "name": "Sunshine Autos",
+      "description": "BringMeToSunshineAutos",
+      "x": -1010,
+      "y": -860,
+      "z": 13
     },
     {
-      "name": "A Secret Place",
-      "description": "BringMeToASecretPlace",
-      "x": 213,
-      "y": 1911,
-      "z": 20
+      "name": "The Print Works",
+      "description": "PrintSomeMoney",
+      "x": -1060,
+      "y": -270,
+      "z": 11
     },
     {
-      "name": "A Quarry",
-      "description": "BringMeToAQuarry",
-      "x": 614,
-      "y": 856,
-      "z": -40
+      "name": "Phil Cassidy's Place",
+      "description": "BoomBoomTime",
+      "x": -1100,
+      "y": 350,
+      "z": 11
     },
     {
-      "name": "The LV Airport",
-      "description": "BringMeToTheLVAirport",
-      "x": 1612,
-      "y": 1166,
-      "z": 17
+      "name": "Downtown Helipad",
+      "description": "TopOfTheWorld",
+      "x": -600,
+      "y": 750,
+      "z": 80
     },
     {
-      "name": "Big Ear",
-      "description": "BringMeToBigEar",
-      "x": -310,
-      "y": 1524,
-      "z": 78
+      "name": "Ken Rosenberg's Office",
+      "description": "IWantMyLawyer",
+      "x": 110,
+      "y": -830,
+      "z": 11
     }
   ],
   "Function": [
@@ -93,346 +121,6 @@
       "id": "struck_by_plane",
       "exclusive": {
         "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Beyblade",
-      "description": "LetItRip",
-      "id": "beyblade",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "My Vehicle Get Towed",
-      "description": "GetTowed",
-      "id": "get_towed",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Exit My Vehicle Please",
-      "description": "ExitVehicle",
-      "id": "exit_vehicle",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "You've been struck by Truck",
-      "description": "YouveBeenStruckBy",
-      "id": "struck_by_truck",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "You've been struck by TANK",
-      "description": "YouveBeenStruckByTank",
-      "id": "struck_by_tank",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "You've been struck by RANDOM VEHICLE!",
-      "description": "YouveBeenStruckByRandomVehicle",
-      "id": "struck_by_random_vehicle",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Remove Current Weapon",
-      "description": "IWillTakeThisGunFromYou",
-      "id": "remove_current_weapon",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Change Player Outfit",
-      "description": "ChangeOutfit",
-      "id": "random_outfit",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Warp In Random Vehicle",
-      "description": "ItsYourUber",
-      "id": "tele_to_random_vehicle",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Someone Steal My Vehicle",
-      "description": "Stealer!!!",
-      "id": "steal_vehicle",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_NPCs",
-      "name": "Spawn Random Enemy",
-      "description": "GiveMeEnemy",
-      "id": "spawn_enemy",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_NPCs",
-      "name": "Teleport Random NPCs To Player",
-      "description": "WhoAreYouPeople",
-      "id": "teleport_random_npcs_to_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_NPCs",
-      "name": "Spawn Hunter with Army and Attack Player",
-      "description": "OhNoArmyIsHuntingMe",
-      "id": "spawn_enemy_heli",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_NPCs",
-      "name": "Launch Player Into The Air",
-      "description": "UpUpAndAway",
-      "id": "launch_player_up",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Mission",
-      "name": "Fail Current Mission",
-      "description": "MissionFailed",
-      "id": "fail_mission",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Stats",
-      "name": "Fat Player",
-      "description": "WhoAteAllThePies",
-      "id": "fat_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Stats",
-      "name": "Skinny Player",
-      "description": "LeanAndMean",
-      "id": "skinny_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Stats",
-      "name": "Buff Player",
-      "description": "BigBro",
-      "id": "buff_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Stuck On Shamal",
-      "description": "LetsFly",
-      "id": "stuck_on_shamal",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "WeaponsAndHealth",
-      "name": "Death",
-      "description": "GoodbyeCruelWorld",
-      "id": "death",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Ignite Player",
-      "description": "IgnitePlayer",
-      "id": "spawn_fire_around_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Explode Player",
-      "description": "ExplodePlayer",
-      "id": "explode_player",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Get Wasted",
-      "description": "Hospitality",
-      "id": "wasted",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Freefall!",
-      "description": "WhereWeDroppingBoys",
-      "id": "freefall",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Player",
-      "name": "Jetpack!",
-      "description": "I Want to Fly",
-      "id": "jetpack",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "WeaponsAndHealth",
-      "name": "Health, Armor, $250k",
-      "description": "INeedSomeHelp",
-      "id": "health_armor_money",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Vehicle Boost",
-      "description": "FullForceForward",
-      "id": "vehicle_boost",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Vehicle Boost Backward",
-      "description": "FullForceBackward",
-      "id": "vehicle_boost_backward",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Send Vehicles To Space",
-      "description": "StairwayToHeaven",
-      "id": "send_vehicles_to_space",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Do A Kickflip!",
-      "description": "DoAKickflip",
-      "id": "kickflip",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Pop Tires Of Vehicles",
-      "description": "TiresBeGone",
-      "id": "pop_tires_of_all_vehicles",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "CustomEffects_Vehicle",
-      "name": "Explode Vehicle",
-      "description": "AllCarsGoBoom",
-      "id": "explode_vehicle",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Teleportation",
-      "name": "Random Teleport",
-      "description": "LetsGoSightseeing",
-      "id": "random_teleport",
-      "exclusive": {
-        "status": true,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "WantedLevel",
-      "name": "Six Wanted Stars",
-      "description": "BringItOn",
-      "id": "wanted_level_six_stars",
-      "exclusive": {
-        "status": true,
         "effectToExclusive": []
       }
     },
@@ -527,72 +215,92 @@
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Weapon Set 1",
-      "description": "ThugsArmoury",
-      "id": "weapon_set_1",
+      "category": "CustomEffects_Generic",
+      "name": "Tornado / Puting Beliung",
+      "description": "TornadoTwister",
+      "id": "tornado",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Weapon Set 2",
-      "description": "ProfessionalsKit",
-      "id": "weapon_set_2",
+      "category": "CustomEffects_Generic",
+      "name": "Candy Suxxx Porn Leaflets",
+      "description": "CandySuxxxLeaflets",
+      "id": "porn_leaflets",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Weapon Set 3",
-      "description": "NuttersToys",
-      "id": "weapon_set_3",
+      "category": "CustomEffects_Vehicle",
+      "name": "Beyblade",
+      "description": "LetItRip",
+      "id": "beyblade",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Weapon Set 4",
-      "description": "MinigunMadness",
-      "id": "weapon_set_4",
+      "category": "CustomEffects_Vehicle",
+      "name": "My Vehicle Get Towed",
+      "description": "GetTowed",
+      "id": "get_towed",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Random Weapon Set",
-      "description": "RandomWeaponSet",
-      "id": "random_weapon_set",
+      "category": "CustomEffects_Vehicle",
+      "name": "Vehicle Boost",
+      "description": "FullForceForward",
+      "id": "boost_car",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "WeaponsAndHealth",
-      "name": "Give Me The Parachute",
-      "description": "GiveParachutePlease",
-      "id": "give_parachute",
+      "category": "CustomEffects_Vehicle",
+      "name": "Send Vehicles To Space",
+      "description": "StairwayToHeaven",
+      "id": "send_vehicles_to_space",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
       }
     },
     {
-      "category": "CustomEffects_Weather",
-      "name": "Change my Weather NOW!",
-      "description": "ChangeWeather",
-      "id": "random_weather",
+      "category": "CustomEffects_Vehicle",
+      "name": "Do A Kickflip!",
+      "description": "DoAKickflip",
+      "id": "kickflip",
       "exclusive": {
         "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Pop Tires Of Vehicles",
+      "description": "TiresBeGone",
+      "id": "pop_tires_of_all_vehicles",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Explode Vehicle",
+      "description": "AllCarsGoBoom",
+      "id": "explode_vehicle",
+      "exclusive": {
+        "status": true,
         "effectToExclusive": []
       }
     },
@@ -612,10 +320,400 @@
       }
     },
     {
-      "category": "Vehicle",
-      "name": "OldSpeedDemon",
-      "description": "OldSpeedDemon",
-      "id": "504",
+      "category": "CustomEffects_Vehicle",
+      "name": "Cherry Popper Drug Hustle",
+      "description": "MrWhoopeeHustle",
+      "id": "cherry_popper_hustle",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Love Fist Tour Limo",
+      "description": "LoveFistLimo",
+      "id": "love_fist_tour",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Bloodring Demolition Derby",
+      "description": "BloodringDerbyBanger",
+      "id": "bloodring_derby",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Well Stacked Pizza Delivery",
+      "description": "PizzaBoyRush",
+      "id": "pizza_boy_rush",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Vehicle",
+      "name": "Sea Sparrow Gunner Chopper",
+      "description": "AmphibiousSeaSparrow",
+      "id": "sea_sparrow_gunner",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Exit My Vehicle Please",
+      "description": "ExitVehicle",
+      "id": "exit_vehicle",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "You've been struck by Truck",
+      "description": "YouveBeenStruckBy",
+      "id": "struck_by_truck",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "You've been struck by TANK",
+      "description": "YouveBeenStruckByTank",
+      "id": "struck_by_tank",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "You've been struck by RANDOM VEHICLE!",
+      "description": "YouveBeenStruckByRandomVehicle",
+      "id": "struck_by_random_vehicle",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Remove Current Weapon",
+      "description": "IWillTakeThisGunFromYou",
+      "id": "remove_current_weapon",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Change Player Outfit",
+      "description": "ChangeOutfit",
+      "id": "random_outfit",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Warp In Random Vehicle",
+      "description": "ItsYourUber",
+      "id": "tele_to_random_vehicle",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Someone Steal My Vehicle",
+      "description": "Stealer!!!",
+      "id": "steal_vehicle",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Stuck On Shamal / Seaplane",
+      "description": "LetsFly",
+      "id": "stuck_on_shamal",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Ignite Player",
+      "description": "IgnitePlayer",
+      "id": "spawn_fire_around_player",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Explode Player",
+      "description": "ExplodePlayer",
+      "id": "explode_player",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Get Wasted",
+      "description": "Hospitality",
+      "id": "wasted",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Freefall!",
+      "description": "WhereWeDroppingBoys",
+      "id": "freefall",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "Jetpack!",
+      "description": "I Want to Fly",
+      "id": "jetpack",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Player",
+      "name": "The Malibu Club Bank Job",
+      "description": "TheMalibuBankJob",
+      "id": "bank_heist_hockey",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Spawn Random Enemy",
+      "description": "GiveMeEnemy",
+      "id": "spawn_enemy",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Teleport Random NPCs To Player",
+      "description": "WhoAreYouPeople",
+      "id": "teleport_random_npcs_to_player",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Spawn Hunter with Army and Attack Player",
+      "description": "OhNoArmyIsHuntingMe",
+      "id": "spawn_enemy_heli",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Launch Player Into The Air",
+      "description": "UpUpAndAway",
+      "id": "launch_player_up",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Demolition Man RC Bombers",
+      "description": "AveryRCBombers",
+      "id": "demolition_man",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_NPCs",
+      "name": "Pop NPC Heads (Decapitation)",
+      "description": "PopHeadDecapitation",
+      "id": "head_pop",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Mission",
+      "name": "Fail Current Mission",
+      "description": "MissionFailed",
+      "id": "fail_mission",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Stats",
+      "name": "Fat Player",
+      "description": "WhoAteAllThePies",
+      "id": "fat_player",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Stats",
+      "name": "Skinny Player",
+      "description": "LeanAndMean",
+      "id": "skinny_player",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Death",
+      "description": "GoodbyeCruelWorld",
+      "id": "death",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Health, Armor, $250k",
+      "description": "INeedSomeHelp",
+      "id": "health_armor_money",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Weapon Set 1 (Thug Tools)",
+      "description": "ThugsArmoury",
+      "id": "weapon_set_1",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Weapon Set 2 (Professional Tools)",
+      "description": "ProfessionalsKit",
+      "id": "weapon_set_2",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Weapon Set 3 (Nutter Tools)",
+      "description": "NuttersToys",
+      "id": "weapon_set_3",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Weapon Set 4 (Minigun Madness)",
+      "description": "MinigunMadness",
+      "id": "weapon_set_4",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Random Weapon Set",
+      "description": "RandomWeaponSet",
+      "id": "random_weapon_set",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WeaponsAndHealth",
+      "name": "Scarface Chainsaw Massacre",
+      "description": "SayHelloToMyLittleFriend",
+      "id": "chainsaw_massacre",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Teleportation",
+      "name": "Random Teleport",
+      "description": "LetsGoSightseeing",
+      "id": "random_teleport",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "WantedLevel",
+      "name": "Six Wanted Stars",
+      "description": "BringItOn",
+      "id": "wanted_level_six_stars",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Weather",
+      "name": "Change my Weather NOW!",
+      "description": "ChangeWeather",
+      "id": "random_weather",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -623,9 +721,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "18Holes",
-      "description": "18Holes",
-      "id": "457",
+      "name": "Rhino Tank",
+      "description": "PANZER",
+      "id": "162",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -633,9 +731,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "ItsAllBull",
-      "description": "ItsAllBull",
-      "id": "486",
+      "name": "Bloodring Banger A",
+      "description": "TRAVELINSTYLE",
+      "id": "234",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -643,9 +741,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "NotForPublicRoads",
-      "description": "",
-      "id": "502",
+      "name": "Bloodring Banger B",
+      "description": "GETTHEREQUICKLY",
+      "id": "235",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -653,9 +751,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "JustTryAndStopMe",
-      "description": "JustTryAndStopMe",
-      "id": "503",
+      "name": "Sabre Turbo",
+      "description": "GETTHEREFAST",
+      "id": "206",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -663,9 +761,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "OhDude",
-      "description": "OhDude",
-      "id": "425",
+      "name": "Hotring Racer A",
+      "description": "GETTHEREVERYFASTINDEED",
+      "id": "224",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -673,9 +771,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "JumpJet",
-      "description": "JumpJet",
-      "id": "520",
+      "name": "Hotring Racer B",
+      "description": "GETTHEREAMAZINGLYFAST",
+      "id": "232",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -683,9 +781,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "MonsterMash",
-      "description": "MonsterMash",
-      "id": "556",
+      "name": "Romero's Hearse",
+      "description": "THELASTRIDE",
+      "id": "172",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -693,9 +791,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "EnergyFiveHundred",
-      "description": "EnergyFiveHundred",
-      "id": "522",
+      "name": "Love Fist Limo",
+      "description": "ROCKANDROLLCAR",
+      "id": "201",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -703,9 +801,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "FourWheelFun",
-      "description": "FourWheelFun",
-      "id": "471",
+      "name": "Trashmaster",
+      "description": "RUBBISHCAR",
+      "id": "138",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -713,9 +811,9 @@
     },
     {
       "category": "Vehicle",
-      "name": "DoughnutHandicap",
-      "description": "DoughnutHandicap",
-      "id": "489",
+      "name": "Caddy",
+      "description": "BETTERTHANWALKING",
+      "id": "187",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
@@ -723,79 +821,449 @@
     },
     {
       "category": "Vehicle",
-      "name": "SurpriseDriver",
+      "name": "Hunter Attack Chopper",
+      "description": "AMERICAWIPEOUT",
+      "id": "155",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Sea Sparrow",
+      "description": "AmphibiousChopper",
+      "id": "177",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Infernus",
+      "description": "InfernusSupercar",
+      "id": "141",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Cheetah",
+      "description": "CheetahSpeed",
+      "id": "145",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "VCPD Cheetah",
+      "description": "MiamiViceCheetah",
+      "id": "236",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Banshee",
+      "description": "BansheeCruiser",
+      "id": "159",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Phoenix",
+      "description": "MusclePhoenix",
+      "id": "207",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Comet",
+      "description": "CometSports",
+      "id": "210",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Deluxo",
+      "description": "BackToTheFuture",
+      "id": "211",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Stinger",
+      "description": "StingerConvertible",
+      "id": "132",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Cuban Hermes",
+      "description": "CubanFlames",
+      "id": "164",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Voodoo",
+      "description": "HaitianVoodoo",
+      "id": "142",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "BF Injection",
+      "description": "BeachBuggy",
+      "id": "154",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Sandking",
+      "description": "RallySandking",
+      "id": "225",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "PCJ-600",
+      "description": "FastBikePCJ",
+      "id": "191",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Faggio",
+      "description": "ClassicScooter",
+      "id": "192",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Freeway",
+      "description": "HarleyFreeway",
+      "id": "193",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Sanchez",
+      "description": "DirtBikeSanchez",
+      "id": "198",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Pizza Boy",
+      "description": "PizzaDeliveryScooter",
+      "id": "178",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Mr Whoopee",
+      "description": "IceCreamVan",
+      "id": "153",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "RC Baron",
+      "description": "AveryRCPlane",
+      "id": "194",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "RC Raider",
+      "description": "AveryRCHeli",
+      "id": "195",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "RC Bandit",
+      "description": "AveryRCCar",
+      "id": "171",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Skimmer Seaplane",
+      "description": "DodoSeaplane",
+      "id": "190",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Maverick",
+      "description": "CivilianMaverick",
+      "id": "217",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Police Maverick",
+      "description": "VCPDMaverick",
+      "id": "227",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "VCPD Cruiser",
+      "description": "PoliceCar",
+      "id": "156",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Enforcer",
+      "description": "SwatVan",
+      "id": "157",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "FBI Washington",
+      "description": "FederalWashington",
+      "id": "147",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "FBI Rancher",
+      "description": "FederalRancher",
+      "id": "220",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Fire Truck",
+      "description": "FireDepartment",
+      "id": "137",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Ambulance",
+      "description": "ViceCityHospital",
+      "id": "146",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Taxi",
+      "description": "OceanBeachTaxi",
+      "id": "150",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Kaufman Cab",
+      "description": "KaufmanCabs",
+      "id": "216",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Zebra Cab",
+      "description": "ZebraTaxi",
+      "id": "188",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Stretch Limousine",
+      "description": "LuxuryLimo",
+      "id": "139",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Bobcat",
+      "description": "GiveMeBobcatPlease",
+      "id": "152",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Landstalker",
+      "description": "SUVLandstalker",
+      "id": "130",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Patriot",
+      "description": "MilitaryPatriot",
+      "id": "200",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Barracks OL",
+      "description": "ArmyTruck",
+      "id": "163",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Linerunner",
+      "description": "SemiTruck",
+      "id": "133",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Flatbed",
+      "description": "HeavyFlatbed",
+      "id": "185",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Packer",
+      "description": "CarTransporter",
+      "id": "173",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Spand Express",
+      "description": "DeliveryVan",
+      "id": "213",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "Vehicle",
+      "name": "Surprise Vehicle",
       "description": "SurpriseDriver",
       "id": "-1",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "GiveMeBobcatPlease",
-      "description": "GiveMeBobcatPlease",
-      "id": "422",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "TimeToKickAss",
-      "description": "TimeToKickAss",
-      "id": "432",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "WheresTheFuneral",
-      "description": "WheresTheFuneral",
-      "id": "442",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "CelebrityStatus",
-      "description": "CelebrityStatus",
-      "id": "409",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "FlyingToStunt",
-      "description": "FlyingToStunt",
-      "id": "513",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "TrueGrime",
-      "description": "TrueGrime",
-      "id": "408",
-      "exclusive": {
-        "status": false,
-        "effectToExclusive": []
-      }
-    },
-    {
-      "category": "Vehicle",
-      "name": "IWantToHover",
-      "description": "IWantToHover",
-      "id": "539",
       "exclusive": {
         "status": false,
         "effectToExclusive": []
