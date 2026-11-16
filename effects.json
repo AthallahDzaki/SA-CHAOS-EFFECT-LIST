@@ -87,6 +87,41 @@
   ],
   "Function": [
     {
+      "category": "NPCs",
+      "name": "NEW GAME!",
+      "description": "REAL NEWGAME!",
+      "id": "new_game",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
+      "name": "Rain Car",
+      "description": "Hujan Mobil",
+      "id": "rain_of_cars",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
+      "name": "Tornado",
+      "description": "Angin Puting Beliung",
+      "id": "tornado",
+      "exclusive": {
+        "status": true,
+        "effectToExclusive": [
+          {
+            "name": "black_hole",
+            "delay": 5000
+          }
+        ]
+      }
+    },
+    {
       "category": "CustomEffects_Generic",
       "name": "Struck By Plane",
       "description": "Get Struck By Plane",
