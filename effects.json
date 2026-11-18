@@ -87,6 +87,26 @@
   ],
   "Function": [
     {
+      "category": "CustomEffects_Generic",
+      "name": "Super Tornado",
+      "description": "",
+      "id": "super_tornado",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
+      "name": "Skip Current Mission",
+      "description": "SKIP MISSION!",
+      "id": "pass_mission",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
       "category": "NPCs",
       "name": "NEW GAME!",
       "description": "REAL NEWGAME!",
