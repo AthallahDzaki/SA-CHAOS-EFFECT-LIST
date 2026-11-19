@@ -88,6 +88,26 @@
   "Function": [
     {
       "category": "CustomEffects_Generic",
+      "name": "Spawn Rocket (Airstrike)",
+      "description": "Spawn Airstrike",
+      "id": "bomb_rockets",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
+      "name": "Spawn Rocket",
+      "description": "Spawn Heatseeking Rocket",
+      "id": "spawn_rocket",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
       "name": "Super Tornado",
       "description": "",
       "id": "super_tornado",
