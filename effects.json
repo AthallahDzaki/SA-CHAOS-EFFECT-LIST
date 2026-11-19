@@ -109,7 +109,7 @@
     {
       "category": "CustomEffects_Generic",
       "name": "Super Tornado",
-      "description": "",
+      "description": "Super Tornado",
       "id": "super_tornado",
       "exclusive": {
         "status": false,
