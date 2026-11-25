@@ -88,6 +88,26 @@
   "Function": [
     {
       "category": "CustomEffects_Generic",
+      "name": "Lighning Strike (Petir)",
+      "description": "Petir",
+      "id": "petir",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
+      "name": "Flood (Banjir)",
+      "description": "BanjirBandang",
+      "id": "banjir",
+      "exclusive": {
+        "status": false,
+        "effectToExclusive": []
+      }
+    },
+    {
+      "category": "CustomEffects_Generic",
       "name": "Spawn Rocket (Airstrike)",
       "description": "Spawn Airstrike",
       "id": "bomb_rockets",
